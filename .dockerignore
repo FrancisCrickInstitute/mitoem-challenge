@@ -1,0 +1,6 @@
+.git
+.cache
+.idea/
+.venv/*
+data/
+resources/

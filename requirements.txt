@@ -1,0 +1,10 @@
+numpy
+matplotlib
+torch
+torchvision
+torchaudio
+tqdm
+coverage
+scikit-image
+h5py
+opencv-python
