@@ -10,7 +10,7 @@ Crick MitoEM Challenge is available here: https://github.com/FrancisCrickInstitu
 
 Crick MitoEM Challenge is distributed under the terms of the CRICK Non-commercial Licence Agreement v 2.0.
 
-The CRICK Non-commercial Licence Agreement v 2.0. is a free of charge license that grants not-for-profit organisation (e.g., charities, universities, research institutes, hospitals) the right to use and/or modify Etch A Cell: Nuclear Envelope for educational, research or evaluation purposes only and prohibits any commercial use.
+The CRICK Non-commercial Licence Agreement v 2.0. is a free of charge license that grants not-for-profit organisation (e.g., charities, universities, research institutes, hospitals) the right to use and/or modify Crick MitoEM Challenge for educational, research or evaluation purposes only and prohibits any commercial use.
 
 Commercial licenses are available from The Francis Crick Institute under a Commercial License Agreement. If you are interested in a commercial license, please contact: Translation@crick.ac.uk
 
@@ -31,7 +31,7 @@ In this Agreement (&quot;the Agreement&quot;) the following words shall have the
 
 **Licensor** shall mean The Francis Crick Institute Limited, a registered charity in England and Wales no. 1140062 and a company registered in England and Wales no.06885462) with its registered office at 1 Midland Road, London, NW1 1AT.
 
-**Software**  shall mean the Etch A Cell: Nuclear Envelope to which the Agreement applies.
+**Software**  shall mean the Crick MitoEM Challenge to which the Agreement applies.
 
 **2. Licence**
 
@@ -47,7 +47,7 @@ In this Agreement (&quot;the Agreement&quot;) the following words shall have the
 
 **3. Redistribution and modifications**
 
-3.1. The Licensee may reproduce and distribute copies of the Software with or without modifications, in source format only and provided that any and every distribution is accompanied by an unmodified copy of this Licence and that the following copyright notice is always displayed in an obvious manner:  **Copyright © Crick and** Joost de Folter, Martin Jones, Luke Nightingale, Harry Songhurst **2020. All rights reserved.**
+3.1. The Licensee may reproduce and distribute copies of the Software with or without modifications, in source format only and provided that any and every distribution is accompanied by an unmodified copy of this Licence and that the following copyright notice is always displayed in an obvious manner:  **Copyright © Crick and** Luke Nightingale Joost de Folter, Martin Jones **2021. All rights reserved.**
 
 3.2 In the case where the Software has been modified, any distribution must include prominent notices indicating which files have been changed. The Licensee is allowed perform modifications to the Software. For the purpose of clarity, Derivative Works (A &quot;Derivative Work&quot; is a work that is a modification of, enhancement to, derived from, or based upon the Software) are allowed provided that all use of any such Derivative Work is subject to the terms of this License.
 
@@ -75,7 +75,7 @@ The Software, all Derivative Works, and the accompanying documentation are licen
 
 **9. Acknowledgements**
 
-The Licensee agrees to acknowledge the Etch A Cell: Nuclear Envelope research project with appropriate citations in any publication or presentation containing research results obtained in whole or in part through the use of the Software. Specifically, the Licensee agrees to cite:
+The Licensee agrees to acknowledge the Crick MitoEM Challenge research project with appropriate citations in any publication or presentation containing research results obtained in whole or in part through the use of the Software. Specifically, the Licensee agrees to cite:
 
 https://doi.org/10.1101/2020.07.28.223024
 
