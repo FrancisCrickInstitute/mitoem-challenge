@@ -75,9 +75,7 @@ The Software, all Derivative Works, and the accompanying documentation are licen
 
 **9. Acknowledgements**
 
-The Licensee agrees to acknowledge the Crick MitoEM Challenge research project with appropriate citations in any publication or presentation containing research results obtained in whole or in part through the use of the Software. Specifically, the Licensee agrees to cite:
-
-https://doi.org/10.1101/2020.07.28.223024
+The Licensee agrees to acknowledge the Crick MitoEM Challenge research project with appropriate citations in any publication or presentation containing research results obtained in whole or in part through the use of the Software. 
 
 **10. Governing Law**
 
